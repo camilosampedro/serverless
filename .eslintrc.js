@@ -9,6 +9,7 @@ module.exports = {
     // doesn't work in node v4 :(
     "strict": "off",
     "prefer-rest-params": "off",
+    "no-use-before-define": "off",
     "react/require-extension": "off",
     "import/no-extraneous-dependencies": "off"
   },
