@@ -5,6 +5,7 @@ module.exports = {
   "rules": {
     "func-names": "off",
     "global-require": "off", // Interfers with optional and eventual circular references
+    "arrow-body-style": "off",
 
     // doesn't work in node v4 :(
     "strict": "off",
